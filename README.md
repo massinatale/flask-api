@@ -3,7 +3,6 @@ An example of a RESTful API service in Python and Flask
 
 
 ### Setup Git repository
-Il codice del progetto e sul repository git di Bitbucket.
 Per scaricare in locale il progetto da linea di comando
 ```console
 git clone https://github.com/massinatale/flask-api.git
