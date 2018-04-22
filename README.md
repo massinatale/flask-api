@@ -6,7 +6,7 @@ An example of a RESTful API service in Python and Flask
 Il codice del progetto e sul repository git di Bitbucket.
 Per scaricare in locale il progetto da linea di comando
 ```console
-git clone https://username_bitbucket@bitbucket.org/icantell/image_rec.git
+git clone https://github.com/massinatale/flask-api.git
 ```
 
 Se è necessario, settare il proxy da linea di comando
