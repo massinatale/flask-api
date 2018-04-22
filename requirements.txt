@@ -1,0 +1,14 @@
+# ----------------------
+# Flask
+# ----------------------
+Flask
+Flask-BasicAuth
+flask-restplus
+requests
+
+# ----------------------
+# Machine Learning modules
+# ----------------------
+scikit-learn
+numpy
+scipy
